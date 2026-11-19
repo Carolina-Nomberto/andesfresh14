@@ -1,0 +1,15 @@
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/PortalApplication.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/api/ProductoApi.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/config/CargaInicial.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/controller/ConsultaController.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/controller/EmpleadoController.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/controller/InicioController.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/controller/ProductoController.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/controller/ReporteController.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/model/Empleado.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/model/Producto.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/repository/EmpleadoRepository.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/repository/ProductoRepository.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/repository/ResumenCategoria.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/service/EmpleadoService.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/service/ProductoService.java
